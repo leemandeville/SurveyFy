@@ -1,0 +1,8 @@
+C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SurveyFy.API
+--content-root=C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API
+--file=C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API\Views\Shared\Error.cshtml
+--file=C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API\Views\Shared\_Layout.cshtml
+--file=C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API\Views\_ViewImports.cshtml
+--file=C:\Users\lee.mandeville\source\repos\SurveyFy\SurveyFy.API\Views\_ViewStart.cshtml

@@ -13217,8 +13217,8 @@
     },
     "SurveyFy.API.Models/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary2/SurveyFy.API.Models.csproj",
-      "msbuildProject": "../ClassLibrary2/SurveyFy.API.Models.csproj"
+      "path": "../SurveyFy.API.Models/SurveyFy.API.Models.csproj",
+      "msbuildProject": "../SurveyFy.API.Models/SurveyFy.API.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13240,11 +13240,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\SurveyFy.API\\SurveyFy.API.csproj",
+      "projectUniqueName": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\SurveyFy.API\\SurveyFy.API.csproj",
       "projectName": "SurveyFy.API",
-      "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\SurveyFy.API\\SurveyFy.API.csproj",
+      "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\SurveyFy.API\\SurveyFy.API.csproj",
       "packagesPath": "C:\\Users\\lee.mandeville\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\SurveyFy.API\\obj\\",
+      "outputPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\SurveyFy.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13264,8 +13264,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\ClassLibrary2\\SurveyFy.API.Models.csproj": {
-              "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\ClassLibrary2\\SurveyFy.API.Models.csproj"
+            "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\SurveyFy.API.Models\\SurveyFy.API.Models.csproj": {
+              "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\SurveyFy.API.Models\\SurveyFy.API.Models.csproj"
             }
           }
         }

@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary2\SurveyFy.API.Models.csproj" />
+    <ProjectReference Include="..\SurveyFy.API.Models\SurveyFy.API.Models.csproj" />
   </ItemGroup>
 
 </Project>

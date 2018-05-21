@@ -6,3 +6,11 @@ C:\Users\lee.mandeville\source\repos\SurveyFy\Surveyfy.Models\obj\Debug\netcorea
 C:\Users\lee.mandeville\source\repos\SurveyFy\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.AssemblyInfo.cs
 C:\Users\lee.mandeville\source\repos\SurveyFy\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.dll
 C:\Users\lee.mandeville\source\repos\SurveyFy\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.pdb
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\bin\Debug\netcoreapp2.0\Surveyfy.Models.deps.json
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\bin\Debug\netcoreapp2.0\Surveyfy.Models.dll
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\bin\Debug\netcoreapp2.0\Surveyfy.Models.pdb
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.csproj.CoreCompileInputs.cache
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.AssemblyInfoInputs.cache
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.AssemblyInfo.cs
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.dll
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\Surveyfy.Models\obj\Debug\netcoreapp2.0\Surveyfy.Models.pdb

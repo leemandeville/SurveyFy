@@ -27,6 +27,7 @@
     </div>
 
     <script>
+        jQuery.support.cors = true;
         $(document).ready(function () {
 
             $("#btnSubmit").click(function () {

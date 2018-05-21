@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\Surveyfy.Models\\Surveyfy.Models.csproj",
+      "projectUniqueName": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\Surveyfy.Models\\Surveyfy.Models.csproj",
       "projectName": "Surveyfy.Models",
-      "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\Surveyfy.Models\\Surveyfy.Models.csproj",
+      "projectPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\Surveyfy.Models\\Surveyfy.Models.csproj",
       "packagesPath": "C:\\Users\\lee.mandeville\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFy\\Surveyfy.Models\\obj\\",
+      "outputPath": "C:\\Users\\lee.mandeville\\source\\repos\\SurveyFyMain\\Surveyfy.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -692,7 +692,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
-        "\\\\dev-tfs01.evergreen.lan\\f$\\Fcs Nuget Website\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

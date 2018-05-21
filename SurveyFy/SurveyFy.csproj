@@ -331,8 +331,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary2\SurveyFy.API.Models.csproj">
-      <Project>{c216b577-7c47-41ef-bda4-e8de271fbed5}</Project>
+    <ProjectReference Include="..\SurveyFy.API.Models\SurveyFy.API.Models.csproj">
+      <Project>{b3a15fe7-f0e7-4d15-8110-a27db3b51ca0}</Project>
       <Name>SurveyFy.API.Models</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,8 @@
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\obj\Debug\netstandard2.0\SurveyFy.Models.csproj.CoreCompileInputs.cache
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\obj\Debug\netstandard2.0\SurveyFy.Models.AssemblyInfoInputs.cache
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\obj\Debug\netstandard2.0\SurveyFy.Models.AssemblyInfo.cs
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\bin\Debug\netstandard2.0\SurveyFy.API.Models.deps.json
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\bin\Debug\netstandard2.0\SurveyFy.API.Models.dll
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\bin\Debug\netstandard2.0\SurveyFy.API.Models.pdb
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\obj\Debug\netstandard2.0\SurveyFy.API.Models.dll
+C:\Users\lee.mandeville\source\repos\SurveyFy\ClassLibrary2\obj\Debug\netstandard2.0\SurveyFy.API.Models.pdb

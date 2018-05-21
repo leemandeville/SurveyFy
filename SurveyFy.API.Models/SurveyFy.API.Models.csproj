@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SurveyFy.API.Models</RootNamespace>
+    <AssemblyName>SurveyFy.API.Models</AssemblyName>
+  </PropertyGroup>
+
+</Project>

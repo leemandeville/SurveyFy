@@ -8,7 +8,6 @@ using Microsoft.EntityFrameworkCore;
 using SurveyFy.API.Models;
 using System.Web.Http.Cors;
 
-
 namespace SurveyFy.API.Controllers
 {
     [Produces("application/json")]

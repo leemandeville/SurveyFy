@@ -12,14 +12,21 @@ namespace SurveyFy.Data
         #region Admin
         public static async Task<List<SurveyFy.API.Models.Answer>> GetAnswers()
         {
-            HttpClient client = new HttpClient();
             List<SurveyFy.API.Models.Answer> answers = new List<API.Models.Answer>();
-            HttpResponseMessage response = await client.GetAsync("http://api.surveyfy.co.uk/api/answers");
-            if (response.IsSuccessStatusCode)
-            {
-                answers = await response.Content.ReadAsAsync<List<SurveyFy.API.Models.Answer>>();
-            }
 
+            if (Surveyfy.Properties.Settings.Default.LocalHosted==true)
+            {
+                SurveyFy.API.Models.
+            }
+            else
+            {
+                HttpClient client = new HttpClient();
+                HttpResponseMessage response = await client.GetAsync("http://api.surveyfy.co.uk/api/answers");
+                if (response.IsSuccessStatusCode)
+                {
+                    answers = await response.Content.ReadAsAsync<List<SurveyFy.API.Models.Answer>>();
+                }
+            }
             return answers;
         }
 

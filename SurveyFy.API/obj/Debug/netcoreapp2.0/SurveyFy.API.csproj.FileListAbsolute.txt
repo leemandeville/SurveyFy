@@ -29,9 +29,9 @@ C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\obj\Debug\netcore
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\obj\Debug\netcoreapp2.0\SurveyFy.API.dll
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\obj\Debug\netcoreapp2.0\SurveyFy.API.pdb
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.deps.json
-C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.runtimeconfig.json
-C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.runtimeconfig.dev.json
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.dll
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.pdb
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.Models.dll
 C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.Models.pdb
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.runtimeconfig.json
+C:\Users\lee.mandeville\source\repos\SurveyFyMain\SurveyFy.API\bin\Debug\netcoreapp2.0\SurveyFy.API.runtimeconfig.dev.json

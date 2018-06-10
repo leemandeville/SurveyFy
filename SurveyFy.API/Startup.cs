@@ -36,6 +36,8 @@ namespace SurveyFy.API
             //          });
             //});
 
+            services.AddCors();
+
             var mvcCoreBuilder = services.AddMvcCore();
 
             mvcCoreBuilder
@@ -53,8 +55,8 @@ namespace SurveyFy.API
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            //     app.UseCors(builder =>
-            //builder.WithOrigins("http://localhost.com"));
+            app.UseCors(builder =>
+       builder.WithOrigins("http://localhost.com"));
             //if (env.IsDevelopment())
             //{
             app.UseDeveloperExceptionPage();

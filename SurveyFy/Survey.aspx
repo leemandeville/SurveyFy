@@ -104,31 +104,29 @@
                             Value: value,
                             ValueText: valueText
                         };
-                        //                console.log(JSON.stringify(answer));
+
+                        console.log(JSON.stringify(answer));
 
                         var request = $.ajax({
                             url: 'http://api.surveyfy.co.uk/api/answers', //'SurveyFySurvey.asmx/InsertAnswerAsync',
                             type: 'POST',
-                            data: answer,
                             contentType: "application/json; charset=utf-8",
-                            //headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
                             dataType: "json",
-                            data: JSON.stringify({ 'answer': answer }), // Check this call.
+                            data: JSON.stringify(answer), // Check this call.
                             async: true,
                             success: function (data) {
-                                alert('done');
-                                console.log(JSON.stringify(answer));
+                                //console.log(JSON.stringify(answer));
                             },
                             error: function (xhr, ajaxOptions, thrownError) {
                                 //alert(xhr.status);
                                 //alert(xhr.responseText);
-                                //alert(thrownError);
+                                alert(thrownError);
                             }
                         })
                         promises.push(request);
                     }
                 });
-                //alert(promises);
+                alert(promises);
                 $.when.apply(null, promises).done(function () {
                     alert('All done');
                     //if ($('.carousel-inner .item:last').hasClass('active')) {
@@ -137,10 +135,7 @@
                     //}
                 })
 
-
-                //window.location.replace("Default.aspx");
             });
-            //window.location.href = "/";
 
             $('#btnBack').hide();
 

@@ -126,9 +126,9 @@
                         promises.push(request);
                     }
                 });
-                alert(promises);
+                //alert(promises);
                 $.when.apply(null, promises).done(function () {
-                    alert('All done');
+                    //alert('All done');
                     //if ($('.carousel-inner .item:last').hasClass('active')) {
                     //    window.location.href = "/";
                     //    return false;
@@ -149,6 +149,8 @@
                     $this.children('#btnSubmit').text('Submit');
                 } else if ($('.carousel-inner .item:first').hasClass('active')) {
                     $this.children('#btnBack').hide();
+                } else {
+                    $this.children('#btnSubmit').text('Save');
                 }
             });
         });

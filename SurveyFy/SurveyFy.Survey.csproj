@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Surveyfy</RootNamespace>
-    <AssemblyName>Surveyfy</AssemblyName>
+    <RootNamespace>Surveyfy.Survey</RootNamespace>
+    <AssemblyName>Surveyfy.Survey</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -144,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\SurveyFy.css" />
+    <Content Include="Create.aspx" />
     <Content Include="Images\images6.jpeg" />
     <Content Include="Survey.aspx" />
     <Content Include="Contact.aspx" />
@@ -210,6 +211,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="Create.aspx.cs">
+      <DependentUpon>Create.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Create.aspx.designer.cs">
+      <DependentUpon>Create.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Enums\RespondentStatus.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
